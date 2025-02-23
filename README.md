@@ -1,7 +1,5 @@
 # Crowdfunding_ETL
  Project 2
- 
-by Sebastian, Jonathan, Elizabeth, Sheryle, and Jasmine.
 
  # Background
 
