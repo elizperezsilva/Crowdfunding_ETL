@@ -3,7 +3,7 @@
 
  # Background
 
-In this project, we worked as team to practice building an ETL (Extract, Transform, Load) pipeline by using Python, Pandas and Python dictionary methods to extract and transform the data from contacts.xlsx and crowdfunding.xlsx 
+In this project, I practiced building an ETL (Extract, Transform, Load) pipeline by using Python, Pandas and Python dictionary methods to extract and transform the data from contacts.xlsx and crowdfunding.xlsx 
 
 After extracting and transforming the data , we created four CSV files and used the data from these files to create an ERD and a table schema. The CSV file data was then uploaded into a Postgres database. 
 
